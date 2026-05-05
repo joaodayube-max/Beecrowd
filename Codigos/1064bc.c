@@ -17,6 +17,5 @@ int main (){
         media = soma / positivos;
         printf("%.1lf\n", media);
     }
-
     return 0;
 }
